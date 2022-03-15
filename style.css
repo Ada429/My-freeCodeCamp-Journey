@@ -1,0 +1,51 @@
+body {
+    font-family: 'Segoe UI',  sans-serif;
+    background-image: url(https://humansofdata.atlan.com/wp-content/uploads/2018/02/stefan-stefancik-257625-2.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    font-size: 1.2vw;
+}
+#heading {
+    max-width: 750px;
+    margin: 4rem auto;
+    padding: .6rem;
+}
+#main {
+    padding: 0% 20% 0% 20%;
+}
+#title {
+    font-size: 2.2rem;
+    text-align: center;
+    line-height: 1.2;
+    padding: .6rem;
+}
+#description {
+    font-size: 1.1rem;
+    text-align: center;
+    padding: .2rem;
+}
+#survey-form {
+    padding: 3rem 2.5rem;
+    border-radius: 7px;
+    background-color: #06065c5d;
+}
+.form {
+    width: 100%;
+    padding: .7rem;
+    border-radius: 6px;
+    font-size: 1.0rem;
+    border: none;
+}
+#submit {
+    background: #089de2;
+    color: #fff;
+    padding: .7rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+#submit:hover {
+    background: rgb(8, 128, 79);
+}
